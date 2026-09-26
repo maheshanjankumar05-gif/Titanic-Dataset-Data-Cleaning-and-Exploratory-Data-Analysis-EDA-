@@ -1,10 +1,6 @@
 # 🚢 Titanic Dataset - Data Cleaning & Exploratory Data Analysis (EDA)
 
-## 📌 SkillCraft Technology - Data Science Internship
-
-### Task 02: Data Cleaning and Exploratory Data Analysis
-
-This project focuses on performing **Data Cleaning** and **Exploratory Data Analysis (EDA)** on the Titanic dataset. The goal is to clean the data, explore relationships between variables, identify trends, and extract meaningful insights through data visualization.
+A data analysis project focused on cleaning, preprocessing, and exploring the Titanic dataset to discover meaningful patterns, relationships, and insights through data visualization.
 
 ---
 
